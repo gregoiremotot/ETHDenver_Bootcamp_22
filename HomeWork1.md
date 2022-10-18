@@ -15,38 +15,18 @@ This is just a general discussion, there is no need to write any code or do any 
 ANSWER:
 
 
-  Essential pieces for a decentralised Monopoly game:
-  
-     Governance by a DAO /Smart Contract to assure transparency
-     
-  
-     * Distributed nodes with consensus algos
-     * Decentralized cloud hosting like; ARWEAVE 
-     * Digital ID to sign in Such as Unstoppable Domains
-     * on chain transactions in public ledger for every real estate purchases/sales
-     * randomness to assure fairness in each player move, such as VRF from a decentralised oracle like witnet.
-     
-     
-     
-     How would people cheat?
-     
-     * Perhaps with multiple users for a single player to assure purchasing power
-     * 
-     *
-     *
-     *
-     
-     
-     
-     
-     
-     How to prevent them from cheating?
-     
-     * Whitelisting thru a verified POAP
-     * Unstoppable domains verified NFT
-     *
-     *
-     *
+Essential pieces of functionality:
+* Bank 
+* Real estate 
+
+
+How to cheat: 
+* Don’t pay rent 
+* Steal money from bank
+* Steal real estate 
+
+How to make it decentralised:
+* All players should keep track on a piece of paper of the money and real estate card everyone as and vote to agree or disagree on each transaction
      
 
 
